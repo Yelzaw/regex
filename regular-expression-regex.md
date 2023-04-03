@@ -75,4 +75,4 @@ The backslash (\) in a regex escapes a character that otherwise would be interpr
 
 ## Author
 
-This Regular Expressions (REGEX) is created by [Yel Zaw Aung](https://github.com/Yelzaw). [Repository Link](https://github.com/Yelzaw/regex)
+This Regular Expressions (REGEX) is created by [Yel Zaw Aung].Please see my profile [here](https://github.com/Yelzaw) and [Repository Link](https://github.com/Yelzaw/regex).
