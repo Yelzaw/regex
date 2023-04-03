@@ -75,4 +75,4 @@ The backslash (\) in a regex escapes a character that otherwise would be interpr
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This Regular Expressions (REGEX) is created by [Yel Zaw Aung](https://github.com/Yelzaw). [Repository Link](https://github.com/Yelzaw/regex)
